@@ -1,0 +1,236 @@
+DEBUG 2023-01-01 08:41:07,303 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-01-01 08:41:07,382 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2023-01-01 08:41:07,398 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.Web.TakeyourStandWebModule, TakeyourStand.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,404 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandDataModule, TakeyourStand.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,404 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,405 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,405 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,405 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,407 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,407 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,407 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandCoreModule, TakeyourStand.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,407 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandApplicationModule, TakeyourStand.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,408 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,408 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.Api.TakeyourStandWebApiModule, TakeyourStand.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,408 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,408 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,409 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,409 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,409 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:07,417 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2023-01-01 08:41:08,037 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 08:41:08,037 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 08:41:08,037 [1    ] o.Configuration.LanguageManagementConfig - Converted TakeyourStand (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 08:41:08,037 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 08:41:08,943 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: TakeyourStand.EntityFramework.TakeyourStandDbContext, TakeyourStand.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 08:41:13,397 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2023-01-01 08:41:13,508 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2023-01-01 08:41:13,538 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2023-01-01 08:41:13,550 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: TakeyourStand
+DEBUG 2023-01-01 08:41:13,565 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2023-01-01 08:41:13,652 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 08:41:13,787 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2023-01-01 08:41:13,787 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2023-01-01 08:41:13,810 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Sessions.Dto.UserLoginInfoDto
+DEBUG 2023-01-01 08:41:13,812 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.CreateUserDto
+DEBUG 2023-01-01 08:41:13,813 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.UpdateUserDto
+DEBUG 2023-01-01 08:41:13,813 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.UserDto
+DEBUG 2023-01-01 08:41:13,813 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Roles.Dto.PermissionDto
+DEBUG 2023-01-01 08:41:13,814 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2023-01-01 08:41:13,814 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.EditTenantDto
+DEBUG 2023-01-01 08:41:13,814 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.TenantDto
+DEBUG 2023-01-01 08:41:13,815 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Web.Models.Account.TenantChangeViewModel
+DEBUG 2023-01-01 08:41:13,815 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2023-01-01 08:41:15,903 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2023-01-01 08:41:15,905 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2023-01-01 08:41:15,907 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2023-01-01 08:41:15,911 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2023-01-01 08:41:15,913 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2023-01-01 08:41:15,917 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+WARN  2023-01-01 08:41:27,894 [6    ] Abp.Logging.LogHelper                    - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+DEBUG 2023-01-01 08:54:01,410 [36   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2023-01-01 08:54:01,410 [36   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 08:54:01,410 [36   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 08:54:01,410 [36   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2023-01-01 10:32:25,546 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-01-01 10:32:28,305 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2023-01-01 10:32:28,328 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.Web.TakeyourStandWebModule, TakeyourStand.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,335 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandDataModule, TakeyourStand.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,335 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,336 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,336 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,337 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandCoreModule, TakeyourStand.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandApplicationModule, TakeyourStand.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.Api.TakeyourStandWebApiModule, TakeyourStand.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:28,351 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2023-01-01 10:32:31,328 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 10:32:31,328 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 10:32:31,328 [1    ] o.Configuration.LanguageManagementConfig - Converted TakeyourStand (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 10:32:31,328 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 10:32:32,598 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: TakeyourStand.EntityFramework.TakeyourStandDbContext, TakeyourStand.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 10:32:34,921 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2023-01-01 10:32:35,068 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2023-01-01 10:32:35,114 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2023-01-01 10:32:35,135 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: TakeyourStand
+DEBUG 2023-01-01 10:32:35,174 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2023-01-01 10:32:35,294 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 10:32:35,472 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2023-01-01 10:32:35,472 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2023-01-01 10:32:35,491 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Sessions.Dto.UserLoginInfoDto
+DEBUG 2023-01-01 10:32:35,493 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.CreateUserDto
+DEBUG 2023-01-01 10:32:35,494 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.UpdateUserDto
+DEBUG 2023-01-01 10:32:35,494 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.UserDto
+DEBUG 2023-01-01 10:32:35,494 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Roles.Dto.PermissionDto
+DEBUG 2023-01-01 10:32:35,494 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2023-01-01 10:32:35,495 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.EditTenantDto
+DEBUG 2023-01-01 10:32:35,495 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.TenantDto
+DEBUG 2023-01-01 10:32:35,495 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Web.Models.Account.TenantChangeViewModel
+DEBUG 2023-01-01 10:32:35,496 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2023-01-01 10:32:38,290 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2023-01-01 10:32:38,293 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2023-01-01 10:32:38,296 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2023-01-01 10:32:38,298 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2023-01-01 10:32:38,344 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2023-01-01 10:32:38,347 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+WARN  2023-01-01 10:32:54,443 [8    ] Abp.Logging.LogHelper                    - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+DEBUG 2023-01-01 10:34:21,480 [9    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2023-01-01 10:34:21,480 [9    ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 10:34:21,480 [9    ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 10:34:21,480 [9    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2023-01-01 14:41:26,020 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-01-01 14:41:27,886 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.Web.TakeyourStandWebModule, TakeyourStand.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandDataModule, TakeyourStand.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandCoreModule, TakeyourStand.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandApplicationModule, TakeyourStand.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.Api.TakeyourStandWebApiModule, TakeyourStand.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,902 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:27,917 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2023-01-01 14:41:28,732 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 14:41:28,732 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 14:41:28,732 [1    ] o.Configuration.LanguageManagementConfig - Converted TakeyourStand (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 14:41:28,732 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-01 14:41:29,532 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: TakeyourStand.EntityFramework.TakeyourStandDbContext, TakeyourStand.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-01 14:41:31,195 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2023-01-01 14:41:31,304 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2023-01-01 14:41:31,351 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2023-01-01 14:41:31,367 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: TakeyourStand
+DEBUG 2023-01-01 14:41:31,430 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2023-01-01 14:41:31,649 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Sessions.Dto.UserLoginInfoDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.CreateUserDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.UpdateUserDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.UserDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Roles.Dto.PermissionDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.EditTenantDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.TenantDto
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Web.Models.Account.TenantChangeViewModel
+DEBUG 2023-01-01 14:41:31,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2023-01-01 14:41:34,362 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2023-01-01 14:41:34,362 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2023-01-01 14:41:34,362 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2023-01-01 14:41:34,362 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2023-01-01 14:41:34,378 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2023-01-01 14:41:34,378 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+WARN  2023-01-01 14:41:54,575 [8    ] Abp.Logging.LogHelper                    - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+DEBUG 2023-01-01 14:45:55,046 [12   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2023-01-01 14:45:55,061 [12   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 14:45:55,061 [12   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-01 14:45:55,061 [12   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2023-01-02 05:06:50,135 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-01-02 05:06:50,215 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2023-01-02 05:06:50,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.Web.TakeyourStandWebModule, TakeyourStand.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandDataModule, TakeyourStand.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandCoreModule, TakeyourStand.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.TakeyourStandApplicationModule, TakeyourStand.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: TakeyourStand.Api.TakeyourStandWebApiModule, TakeyourStand.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,255 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:50,279 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2023-01-02 05:06:50,983 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-02 05:06:50,983 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-02 05:06:50,983 [1    ] o.Configuration.LanguageManagementConfig - Converted TakeyourStand (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-02 05:06:50,983 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-01-02 05:06:51,687 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: TakeyourStand.EntityFramework.TakeyourStandDbContext, TakeyourStand.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-01-02 05:06:52,647 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2023-01-02 05:06:52,703 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2023-01-02 05:06:52,727 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2023-01-02 05:06:52,743 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: TakeyourStand
+DEBUG 2023-01-02 05:06:52,759 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2023-01-02 05:06:52,847 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-02 05:06:52,935 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2023-01-02 05:06:52,935 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Sessions.Dto.UserLoginInfoDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.CreateUserDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.UpdateUserDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Users.Dto.UserDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Roles.Dto.PermissionDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.EditTenantDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.MultiTenancy.Dto.TenantDto
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Web.Models.Account.TenantChangeViewModel
+DEBUG 2023-01-02 05:06:52,943 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - TakeyourStand.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2023-01-02 05:06:54,503 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2023-01-02 05:06:54,503 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2023-01-02 05:06:54,511 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2023-01-02 05:06:54,511 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2023-01-02 05:06:54,519 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2023-01-02 05:06:54,519 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'TakeyourStand.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+WARN  2023-01-02 05:07:03,479 [7    ] Abp.Logging.LogHelper                    - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+DEBUG 2023-01-02 05:27:46,134 [16   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2023-01-02 05:27:46,138 [16   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-02 05:27:46,139 [16   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-01-02 05:27:46,139 [16   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
